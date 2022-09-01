@@ -1,9 +1,49 @@
+@font-face {
+  font-family: "Satoshi";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../Satoshi/WEB/fonts/Satoshi-Light.woff2");
+}
+@font-face {
+  font-family: "Satoshi";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../Satoshi/WEB/fonts/Satoshi-Regular.woff2");
+}
+
+@font-face {
+  font-family: "Satoshi";
+  font-style: italic;
+  font-weight: 600;
+  src: url("../Satoshi/WEB/fonts/Satoshi-MediumItalic.woff2");
+}
+@font-face {
+  font-family: "Satoshi";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../Satoshi/WEB/fonts/Satoshi-Medium.woff2");
+}
+@font-face {
+  font-family: "Satoshi";
+  font-style: bold;
+  font-weight: 800;
+  src: url("../Satoshi/WEB/fonts/Satoshi-Black.woff2");
+}
+@font-face {
+  font-family: "Satoshi";
+  font-style: bold;
+  font-weight: 800;
+  src: url("../Satoshi/WEB/fonts/Satoshi-Bold.woff2");
+}
+
 :root {
   --border-radius: 4px;
   --color-text: #333;
-  --color-primary: #7026b9;
+  --color-white: #fefefe;
+  --color-primary: #194d28;
   --color-code-bg: #fff4db;
-  --color-code: #8a6534;
+  --secondarycolor-code: #dda43e;
+  --Beigecolor-code: #ac8952;
   --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
     sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
   --font-mono: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
