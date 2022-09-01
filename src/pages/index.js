@@ -11,7 +11,7 @@ const IndexPage = () => (
     <Seo title="Home" />
     <div className={styles.textCenter}>
       <h1>
-        Welcome to <b>ThatGirlBlog</b>
+        Welcome to <b>ThatGirlBlog Yaaay</b>
       </h1>
     </div>
   </Layout>
